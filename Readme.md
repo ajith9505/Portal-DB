@@ -1,0 +1,1 @@
+### Created a sample DB design for Zen portal using mySQL 
